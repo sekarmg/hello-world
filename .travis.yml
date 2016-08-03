@@ -8,5 +8,3 @@ env:
 - owner=sekarmg
 - installation=dev
 
-npm test
-
