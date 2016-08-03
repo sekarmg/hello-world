@@ -1,1 +1,12 @@
-install:true
+language: node_js
+node_js:
+  - "6"
+  - "5"
+  - "4"
+  - "iojs"
+env:
+- owner=sekarmg
+- installation=dev
+
+npm test
+

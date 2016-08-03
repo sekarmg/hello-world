@@ -1,0 +1,19 @@
+{
+  "name": "helloworld",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "sekarmg",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "httpshttps://github.com/sekarmg/hello-world.git"
+  },
+  "bugs": {
+    "url": "https://github.com/sekarmg/hello-world/issues"
+  },
+  "homepage": "https://github.com/sekarmg/hello-world"
+}
