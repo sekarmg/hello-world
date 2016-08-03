@@ -1,3 +1,7 @@
+#introduction
+[![Build Status](https://travis-ci.org/sekarmg/hello-world.svg?branch=master)](https://travis-ci.org/sekarmg/hello-world)
+[![MIT license](http://img.shields.io/badge/license-MIT-brightgreen.svg)](http://opensource.org/licenses/MIT)
+
 # Example travis-ci.org node.js project
 
 This is an example node.js project that uses [vows](http://vowsjs.org) and
